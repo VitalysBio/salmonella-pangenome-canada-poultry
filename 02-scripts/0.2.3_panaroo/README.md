@@ -18,3 +18,6 @@ These outputs include gene presence–absence matrices, pangenome summary statis
 ### Reproducibility note
 
 The script used to execute Panaroo is provided in this repository for documentation and reproducibility purposes. The pangenome results included in this project were generated prior to publication and do not require re-execution unless the user intends to regenerate the pangenome from the original Prokka annotations.
+
+### Panaroo Citation
+Tonkin-Hill G, MacAlasdair N, Ruis C, Weimann A, Horesh G, Lees JA, Gladstone RA, Lo S, Beaudoin C, Floto RA, Frost SDW, Corander J, Bentley SD, Parkhill J. 2020. Producing polished prokaryotic pangenomes with the Panaroo pipeline. Genome Biol 21:180.
